@@ -2,7 +2,7 @@
 Basic application to try out some Rust.
 Run the application and tell it how many dice should be rolled and how many sides each dice has.
 
-```shell
+```
 ❯ ./target/release/diceroller
 ### Dice roller ###
 How many dice do you want to roll ?
